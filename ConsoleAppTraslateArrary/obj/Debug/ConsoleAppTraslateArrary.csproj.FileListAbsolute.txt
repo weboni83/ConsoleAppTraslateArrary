@@ -1,0 +1,6 @@
+C:\Users\J\Documents\GitHub\ConsoleAppTraslateArrary\ConsoleAppTraslateArrary\bin\Debug\ConsoleAppTraslateArrary.exe.config
+C:\Users\J\Documents\GitHub\ConsoleAppTraslateArrary\ConsoleAppTraslateArrary\bin\Debug\ConsoleAppTraslateArrary.exe
+C:\Users\J\Documents\GitHub\ConsoleAppTraslateArrary\ConsoleAppTraslateArrary\bin\Debug\ConsoleAppTraslateArrary.pdb
+C:\Users\J\Documents\GitHub\ConsoleAppTraslateArrary\ConsoleAppTraslateArrary\obj\Debug\ConsoleAppTraslateArrary.csprojResolveAssemblyReference.cache
+C:\Users\J\Documents\GitHub\ConsoleAppTraslateArrary\ConsoleAppTraslateArrary\obj\Debug\ConsoleAppTraslateArrary.exe
+C:\Users\J\Documents\GitHub\ConsoleAppTraslateArrary\ConsoleAppTraslateArrary\obj\Debug\ConsoleAppTraslateArrary.pdb
